@@ -1,18 +1,28 @@
-## Hello! I'm Lucas Barsaglini! 🤙
+## Hello! Eu sou Lucas Barsaglini! 🤙
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://br.linkedin.com/in/lucasbarsaglini)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-)](https://mail.google.com/mail/lucasbarsag)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/invites/contact/?i=1j129oy80g41y&utm_content=14e0jm0)
+- Estudando Java. 🤓 
+- Buscando colocação no mercado de trabalho como Dev.
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasbarsaglini&show_icons=true&theme=dark)
+<div>
+  <a href="https://github.com/lucasbarsaglini">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasbarsaglini&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbarsaglini&layout=compact"/>      
+</div>      
 
-## Tecnologias que eu utilizo 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-    <img align="center" alt="SPRING" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-</div>  
-
+<div style="display: inline_block"><br>
+  <img align="center" alt="SPRING" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">    
+  <img align="center" alt="PYTON" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">    
+  <img align="center" alt="EXECEL" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">    
+</div>
   
+##     
+<div>
+  <h3>
+    Contato
+  </h3>    
+  <a href="https://instagram.com/lucasbarsaglini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:lucasbarsag@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucasbarsaglini" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
